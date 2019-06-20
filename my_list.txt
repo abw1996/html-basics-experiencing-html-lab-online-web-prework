@@ -1,0 +1,6 @@
+peas
+carrots
+apples 
+potatoes
+shallots
+onions
